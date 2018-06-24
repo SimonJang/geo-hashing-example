@@ -1,0 +1,22 @@
+{
+	"110101": {
+		"licenseNumber": "110101",
+		"name": "Julie Borghijs",
+		"address": {
+			"street": "Laar 20",
+			"number": "",
+			"zip": "2630",
+			"country": "belgium",
+			"city": "Aartselaar"
+		},
+		"status": "",
+		"licenseHolder": {
+			"name": "Apotheek Julie Borghijs",
+			"kbo": "0860855994"
+		},
+		"operator": {
+			"name": "Apotheek Julie Borghijs",
+			"kbo": "0860855994"
+		}
+	}
+}
